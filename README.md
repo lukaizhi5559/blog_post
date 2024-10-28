@@ -1,6 +1,3 @@
-Here’s a sample `README.md` for your Django `blog_post` app, outlining the project’s purpose, setup, usage, and other relevant information.
-
-```markdown
 # Blog Post App
 
 A simple blog application built with Django where users can create, view, and manage blog posts. This app is designed to help you understand Django basics, including models, views, templates, and routing.
